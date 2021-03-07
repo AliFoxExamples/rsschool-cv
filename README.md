@@ -1,2 +1,2 @@
 # rsschool-cv
-init: start Markdown &amp; Git task
+ [cv](https://AliFoxExamples.github.io/rsschool-cv/cv)
