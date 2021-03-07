@@ -27,22 +27,9 @@ I have 1 more year to graduate. I also have a degree of car mechanic form colleg
 - Sublime Text (+Emmet)
 - Image Tool (the tool to work with web-page templates)
 
-## Code example:
+## Code examples:
 
-```
-    // This is a joke.
-
-    function chicken() {
-        return egg();
-    }
-
-    function egg() {
-        return chicken();
-    }
-
-    console.log(`Who came first? ${chicken()}`);
-
-```
+You can find the stuff I worked on here: [My Page](https://alifoxexamples.github.io/)
 
 ## My courses:
 
