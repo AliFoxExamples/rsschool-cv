@@ -5,6 +5,8 @@
 - E-mail:
   - user-ali-sadykov@yandex.ru
   - user.ali.sadykov@gmail.com
+- [VK](https://vk.com/ali.sadykov)
+- [GitHub](https://github.com/AliFoxExamples)
 
 ## About me:
 
