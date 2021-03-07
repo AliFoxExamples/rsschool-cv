@@ -16,10 +16,14 @@ I have 1 more year to graduate. I also have a degree of car mechanic form colleg
 
 - HTML5
 - CSS3
-- Basic JavaScript (ES6)
-- Basic Git
-- Basic GitHub
+- JavaScript (ES6) (basic)
+- Git (basic)
+- GitHub (basic)
+- GitHub Desktop (basic)
+- Visual Studio Code (basic)
 - Photoshop
+- Sublime Text (+Emmet)
+- Image Tool (the tool to work with web-page templates)
 
 ## Code example:
 
