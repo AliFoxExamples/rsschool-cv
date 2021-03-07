@@ -23,20 +23,20 @@ I have 1 more year to graduate. I also have a degree of car mechanic form colleg
 
 ## Code example:
 
-    ```
-        // This is a joke.
+```
+    // This is a joke.
 
-        function chicken() {
-            return egg();
-        }
+    function chicken() {
+        return egg();
+    }
 
-        function egg() {
-            return chicken();
-        }
+    function egg() {
+        return chicken();
+    }
 
-        console.log(`Who came first? ${chicken()}`);
+    console.log(`Who came first? ${chicken()}`);
 
-    ```
+```
 
 ## My courses:
 
